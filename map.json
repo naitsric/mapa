@@ -1,0 +1,16 @@
+[{
+   "id": 1,
+   "tittle": "Empresarial",
+   "content": "Disponibles 16 stands para empresas de la región que quieran comercializar sus productos.&lt;br&gt;&lt;br&gt;&lt;img src='artesanias.jpg'&gt;",
+   "coords": "37,240,111,202,126,221,55,261"
+ },{
+   "id": 2,
+   "tittle": "Tecnologia",
+   "content": "Disponibles 16 stands para empresas de la región que quieran comercializar sus productos.&lt;br&gt;&lt;br&gt;&lt;img src='artesanias.jpg'&gt;",
+   "coords": "140,188,203,166,213,192,150,213"
+ },{
+   "id": 3,
+   "tittle": "Alcaldia de Girardot",
+   "content": "Disponibles 16 stands para empresas de la región que quieran comercializar sus productos.&lt;br&gt;&lt;br&gt;&lt;img src='artesanias.jpg'&gt;",
+   "coords": "179,453,277,449,278,472,174,475"
+ }]
